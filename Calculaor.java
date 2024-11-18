@@ -18,3 +18,4 @@ System.out.println("The Square of the number is "+(cal.square41));
 }
 }
 
+
